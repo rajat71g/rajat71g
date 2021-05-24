@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rajat71g
-- 👀 I’m interested in Android, C++, Backend Development
-- 🌱 I’m currently learning Android, React Native
-- 💞️ I’m looking to collaborate on Backend Frameworks, Android
+- 👋 Hi, I’m Rajat Gupta and I have 4 years of overall Experience in Software Developement.
+- 👀 I’m interested in Android, and Backend Development.
+- 🌱 I have Experience in Android/Kotlin/Java, Retrofit, RoomDb, Dagger2 working with MVVM Architecture and multiple design patterns.
+- 💞️ I’m looking to collaborate on Android and Backend Frameworks, 
 - 📫 How to reach me : You can reach me through my email Id: rajat71g@gmail.com
 
 <!---
